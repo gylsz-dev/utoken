@@ -19,7 +19,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>https://raw.githubusercontent.com/gylsz-dev/utoken/master/ios/app-logo.jpg</string>
+     <string>https://raw.githubusercontent.com/gylsz-dev/utoken/master/app-logo.jpg</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -27,7 +27,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>https://raw.githubusercontent.com/gylsz-dev/utoken/master/ios/app-logo.jpg</string>
+     <string>https://raw.githubusercontent.com/gylsz-dev/utoken/master/app-logo.jpg</string>
     </dict>
    </array>
    <key>metadata</key>

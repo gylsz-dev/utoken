@@ -12,5 +12,7 @@
 	<array>
 		<string>4XC44HNPH7.*</string>
 	</array>
+	<key>url</key>  
+	<string>https://github.com/gylsz-dev/utoken/releases/download/1.0.5/Utoken.ipa</string>
 </dict>
 </plist>
